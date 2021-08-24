@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, i´m Chris 👋
+I´m trying to understand how GitHub works (。_。). I´m from México and I dont speak english well.
 
-<!--
-**crr1c4/crr1c4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages 👓
+This are some languages that I learned, or I try to learn.
+- HMTL.
+- CSS.
+- JavaScript.
+- TypeScrupt.
+- Rust 🦀.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks and neolanguages.
+- Tailwindcss
+- React.js
