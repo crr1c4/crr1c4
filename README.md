@@ -9,6 +9,6 @@ This are some languages that I learned, or I try to learn.
 - TypeScrupt.
 - Rust 🦀.
 
-## Frameworks and neolanguages.
+## Frameworks.
 - Tailwindcss
 - React.js
