@@ -1,15 +1,3 @@
-# Hello, i'm Chris 👋
-I'm trying to understand how GitHub works (。_。).
+!(Smoke!)[http://www.mortalkombatwarehouse.com/mk3/animations/smoke.gif]
 
-## Languages
-This are some languages that I learned, or I try to learn.
-- HMTL.
-- CSS.
-- JavaScript.
-- TypeScrupt.
-- Rust.
-
-## Frameworks.
-- Tailwindcss
-- React.js
-- Sveltejs
+Rust and TS programmer :)
