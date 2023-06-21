@@ -1,5 +1,5 @@
 # Rust and TS programmer 🦀
-I'm currently focused in interpreters and web development.
+I'm currently working in interpreters and web development.
 
 ![Cyrax Image](http://www.mortalkombatwarehouse.com/mk3/animations/cyrax-friendship.gif)
 ## Main Languages
