@@ -19,6 +19,6 @@ I'm currently focused in interpreters and web development.
 
 ### APIs and Interpreters
 - [Deno REST API](https://github.com/crr1c4/sql-converter): REST-API using Deno, typescript, MongoDB, authentication with bcrypt, and authorization with JWT.
-- [Lox Interpreter written in rust](https://github.com/crr1c4/lox-bytecode-interpreter): Lox bytecode interpreter created in rust, based in the "Crafting Interpreters" by Robert Nystrom.
+- [Lox Interpreter written in rust](https://github.com/crr1c4/lox-interpreter): Lox bytecode interpreter created in rust, based in the "Crafting Interpreters" by Robert Nystrom.
 
 Arriba el Santos Laguna.
