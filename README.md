@@ -1,11 +1,9 @@
-# Rust and TS programmer 🦀
+# Rust and TS coder 🦀
 I'm currently working in interpreters and web development.
 
 ![Cyrax Image](http://www.mortalkombatwarehouse.com/mk3/animations/cyrax-friendship.gif)
-## Main Languages
-- Rust.
-- Javascript and typescript (using [Deno](https://deno.land/)).
-- Java.
+
+![langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=crr1c4&hide=html,css)
 
 ![Smoke GIF](http://www.mortalkombatwarehouse.com/mk3/animations/smoke.gif)
 ## Main proyects
@@ -20,5 +18,3 @@ I'm currently working in interpreters and web development.
 ### APIs and Interpreters
 - [Deno REST API](https://github.com/crr1c4/sql-converter): REST-API using Deno, typescript, MongoDB, authentication with bcrypt, and authorization with JWT.
 - [Lox Interpreter written in rust](https://github.com/crr1c4/lox-interpreter): Lox bytecode interpreter created in rust, based in the "Crafting Interpreters" by Robert Nystrom.
-
-Arriba el Santos Laguna.
