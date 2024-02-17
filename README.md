@@ -1,4 +1,4 @@
-I'm currently working in interpreters and compilers :).
+I'm currently working on interpreters and compilers... 🦖
 
 ## Main proyects
 - [Deno REST API](https://github.com/crr1c4/sql-converter): REST-API using Deno, typescript, MongoDB, authentication with bcrypt, and authorization with JWT.
