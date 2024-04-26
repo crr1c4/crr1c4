@@ -7,5 +7,5 @@ I'm currently working on interpreters and compilers... 🦖
 
 ![langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=crr1c4&hide=html,css&theme=dark)
 
-### Leetcode problems solved.
+### Leetcode
 ![leetcodestats](https://leetcode-stats-six.vercel.app/?username=cr1c4&theme=dark)
