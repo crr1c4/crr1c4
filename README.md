@@ -1,11 +1,12 @@
-![Smoke GIF](http://www.mortalkombatwarehouse.com/mk3/animations/smoke.gif)
-I'm currently working on interpreters and compilers... 🦖
+# I'm currently working on interpreters and compilers... 🦖
+<p align="center">  
+  <img src="https://github.com/crr1c4/crr1c4/assets/69532831/e01ed021-e054-40ab-8a99-c1a544f65de7" alt="Rust crab" width="300"/>
+</p>
 
-## Main proyects
-- [Deno REST API](https://github.com/crr1c4/sql-converter): REST-API using Deno, typescript, MongoDB, authentication with bcrypt, and authorization with JWT.
-- [Lox Bytecode Interpreter](https://github.com/crr1c4/lox-bytecode-interpreter): Lox bytecode interpreter created in rust, based in the "Crafting Interpreters" by Robert Nystrom.
+## Main repositories.
+[![Lox Repo](https://github-readme-stats.vercel.app/api/pin/?username=crr1c4&repo=lox-bytecode-interpreter)](https://github.com/crr1c4/lox-bytecode-interpreter)
+[![Lox Repo](https://github-readme-stats.vercel.app/api/pin/?username=crr1c4&repo=deno-rest-api)](https://github.com/crr1c4/deno-rest-api)
 
-![langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=crr1c4&layout=donut&theme=dark&hide=html,css)
+## Stats
 
-### Leetcode
-![leetcodestats](https://leetcode-stats-six.vercel.app/?username=cr1c4&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crr1c4&layout=compact&theme=gradient)
