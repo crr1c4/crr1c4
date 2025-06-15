@@ -7,4 +7,4 @@ I'm a developer specialized in building interpreters and emulators. I’m passio
 
 ## Language Statistics.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crr1c4&layout=compact&theme=gradient&hide=qmake,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crr1c4&layout=compact&theme=gradient&hide=qmake,html,css,kotlin)
